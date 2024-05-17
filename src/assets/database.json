@@ -2,25 +2,46 @@
     {
         "nome": "Italo Francyles",
         "data_nasc": "16/07/1994",
-        "banda": "Helloween",
-        "filme": "Home Alone 2"
+        "genero_mus": "Heavy Metal",
+        "artista": "Helloween",
+        "filme": "Home Alone 2",
+        "frase": "Eu n\u00e3o tenho hora pra morrer, por isso sonho. (Rita Lee)",
+        "img": "src/assets/italofrancyles.jpeg"
     },
     {
-        "nome": "Person A",
+        "nome": "Italo Francyles",
         "data_nasc": "16/07/1994",
-        "banda": "Symbols",
-        "filme": "Resident Evil 2"
+        "genero_mus": "Heavy Metal",
+        "artista": "Helloween",
+        "filme": "Home Alone 2",
+        "frase": "Eu n\u00e3o tenho hora pra morrer, por isso sonho. (Rita Lee)",
+        "img": "src/assets/1.png"
     },
     {
-        "nome": "Person B",
+        "nome": "Italo Francyles",
         "data_nasc": "16/07/1994",
-        "banda": "Sepultura",
-        "filme": "Independency Day"
+        "genero_mus": "Heavy Metal",
+        "artista": "Helloween",
+        "filme": "Home Alone 2",
+        "frase": "Eu n\u00e3o tenho hora pra morrer, por isso sonho. (Rita Lee)",
+        "img": "src/assets/2.png"
     },
     {
-        "nome": "Person C",
-        "data_nasc": "16/07/1995",
-        "banda": "Sepultura",
-        "filme": "Independency Day"
+        "nome": "Italo Francyles",
+        "data_nasc": "16/07/1994",
+        "genero_mus": "Heavy Metal",
+        "artista": "Helloween",
+        "filme": "Home Alone 2",
+        "frase": "Eu n\u00e3o tenho hora pra morrer, por isso sonho. (Rita Lee)",
+        "img": "src/assets/3.png"
+    },
+    {
+        "nome": "Italo Francyles",
+        "data_nasc": "16/07/1994",
+        "genero_mus": "Heavy Metal",
+        "artista": "Helloween",
+        "filme": "Home Alone 2",
+        "frase": "Eu n\u00e3o tenho hora pra morrer, por isso sonho. (Rita Lee)",
+        "img": "src/assets/italofrancyles.jpeg"
     }
 ]

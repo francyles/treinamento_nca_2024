@@ -12,7 +12,7 @@ for nome_arquivo in os.listdir(diretorio):
     if nome_arquivo.endswith('.json'):
         caminho_arquivo = os.path.join(diretorio, nome_arquivo)
         # Ler o conteúdo do arquivo JSON e armazenar na lista de dados combinados
-        with open(caminho_arquivo, 'r') as arquivo:
+        with open(caminho_arquivo, 'r', encoding='utf-8') as arquivo:
             dados_arquivo = json.load(arquivo)
             print(dados_arquivo)
             dados_combinados.append(dados_arquivo)
