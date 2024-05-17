@@ -18,7 +18,7 @@ for nome_arquivo in os.listdir(diretorio):
             dados_combinados.append(dados_arquivo)
 
 # Escrever os dados combinados em um novo arquivo JSON
-caminho_saida = '../assets/database.json'
+caminho_saida = 'database.json'
 with open(caminho_saida, 'w') as arquivo_saida:
     json.dump(dados_combinados, arquivo_saida, indent=4)
 
