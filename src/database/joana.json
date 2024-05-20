@@ -1,0 +1,10 @@
+{
+    "nome":"joana",
+    "data_nasc": "2004/05/02",
+    "genero_mus": "metal",
+    "artista" : "pink floyd",
+    "filme" : "barbie",
+    "frase" : "file de frango hoje",
+    "img": "src/assets/joana.png"
+
+}
